@@ -1,37 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Matthieu Zins
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Computer Vision
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Inria Nancy - Grand Est
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision, augmented reality and machine learning, with a focus on visual localization.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Augmented Reality
+- Machine Learning
+- Algorithms
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computer Science
+    institution: Linköping University
+    year: 2017
+  - course:  Engineer degree in Computer Science
+    institution: University of Technology of Compiègne
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +67,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in the Tangram (previously Magrit) team at [Inria](https://www.inria.fr/en) in Nancy. I am supervised by [Marie-Odile Berger](https://members.loria.fr/MOBerger/) and [Gilles Simon](https://members.loria.fr/GSimon/). My general areas of interest are computer vision, machine learning and augmented reality. My research focuses on visual localization.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before starting my PhD, I have worked for 2 years at [Kitware](https://www.kitware.fr/), as a computer vision engineer. I wrote my Master Thesis at [SICK IVP](https://www.sick.com/se/en/), supervised by [Ola Friman](https://scholar.google.com/citations?user=C2J33ewAAAAJ&hl=en), on Super-resolution for
+Time-of-flight Cameras. I received a French Engineering degree from the [UTC](https://www.utc.fr/) and a MSc from [Linköping University](https://liu.se/en), Sweden, both in Computer Science. I have also spent 6 months as an exchange student at [Technische Universität Chemnitz](https://www.tu-chemnitz.de/index.html.en) in Germany.
+
+

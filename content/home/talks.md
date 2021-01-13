@@ -7,8 +7,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
-subtitle = ""
+title = "Competitions"
+subtitle = "Data Science & Development competitions"
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
