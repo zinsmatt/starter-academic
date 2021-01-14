@@ -27,7 +27,12 @@ abstract: The goal of this challenge was automatic detection and segmentation of
 
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">TopCoder Marathon Match / Data Science</b><br><b style="color:#FF0000">3nd Place</b> <br> The goal of this challenge was automatic detection and segmentation of faults (curved surfaces) in 3D seismic data. (C++, PCL, eigen, Docker)
-tags:
+tags: 
+- Adanced Math
+- Geometry
+- Algorithm
+- 3D Reconstruction
+- Point Cloud
 #- Source Themes
 featured: true
 

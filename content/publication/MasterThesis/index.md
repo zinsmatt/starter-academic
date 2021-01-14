@@ -29,6 +29,9 @@ abstract: The recent emergence of time-of-flight cameras has opened up new possi
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">Master Thesis</b><br> Evaluation of different super-resolution methods for time-of-flight cameras.
 tags:
+- Time-of-flight Camera
+- Super-Resolution
+- Sensor Fusion
 #- Source Themes
 featured: true
 

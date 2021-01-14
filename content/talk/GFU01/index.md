@@ -27,6 +27,8 @@ abstract: The goal of this challenge was to develop a new functionality of conve
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">TopCoder Development</b><br><b style="color:#FF0000">2nd Place</b> <br> The goal of this challenge was to develop a new functionality of conversion of 3D meshes into polylines sticks and integrate it in the client C++ codebase. (C++, eigen, libigl, PCL)
 tags:
+- Geometry
+- C++
 #- Source Themes
 featured: true
 

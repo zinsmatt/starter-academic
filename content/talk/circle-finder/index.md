@@ -27,6 +27,9 @@ abstract: The US National Geospatial-Intelligence Agency (NGA) was seeking novel
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">TopCoder Marathon Match / Data Science</b><br><b style="color:#FF0000">2nd Place</b> <br> The US National Geospatial-Intelligence Agency (NGA) was seeking novel approaches for satellite imagery segmentation in order to detect, delineate, and describe circular shaped features. My final solution reached 92% on their secret dataset. <a href="https://www.nga.mil/news/1609952228608_NGA_announces_5_winners_in_$50K_in_Circle_Finder_c.html">NGA's announcement</a> (PyTorch, OpenCV, GDAL)
 tags:
+- Deep Learning
+- Shape Detection
+- Satellite Imagery
 #- Source Themes
 featured: true
 

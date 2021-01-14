@@ -39,6 +39,9 @@ abstract: Methods for automated 3D urban modeling typically result in very dense
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">CVPR Workshop 2019</b><br> Automatic system for 3D building reconstruction for the IARPA CORE3D program. <br><b style="color:#FF0000">This works received the Best Paper Award.</b>
 tags:
+- 3D Reconstruction
+- Satellite Imagery
+- Texture Mapping
 #- Source Themes
 featured: true
 

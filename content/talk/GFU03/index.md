@@ -27,6 +27,9 @@ abstract: The goal of this challenge was to fix the client's codebase and optimi
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">TopCoder Development</b><br><b style="color:#FF0000">1st Place</b> <br> The goal of this challenge was to fix the client's codebase and optimize its performance to be able to process very large datasets (several gigabytes of scan data).
 tags:
+- Code Optimization
+- Debugging
+- C++
 #- Source Themes
 featured: true
 

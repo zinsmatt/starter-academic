@@ -27,6 +27,8 @@ abstract: The goal of this challenge was to implement calculation of various aux
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">TopCoder Development</b><br><b style="color:#FF0000">2nd Place</b> <br> The goal of this challenge was to implement calculation of various auxiliary data on the detected geological faults and integrate it in the client C++ codebase. (C++, eigen, libigl, PCL)
 tags:
+- Geometry
+- C++
 #- Source Themes
 featured: true
 

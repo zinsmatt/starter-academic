@@ -29,6 +29,8 @@ abstract: In this paper, we propose a method for coarse camera pose computation 
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">3DV 2020</b><b style="font-size:110%;color:#FF0000"> (oral)</b><br> 3D coherent ellipses prediction to improve object-based localization.
 tags:
+- Pose Estimation
+- Deep Learning
 #- Source Themes
 featured: true
 

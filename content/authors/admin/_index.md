@@ -19,16 +19,19 @@ bio: My research interests include computer vision, augmented reality and machin
 interests:
 - Computer Vision
 - Augmented Reality
-- Machine Learning
+- Deep Learning
 - Algorithms
 
 education:
   courses:
+  - course: PhD in Computer Vision
+    institution: Inria / Université de Lorraine
+    year: (in progress)
   - course: MSc in Computer Science
     institution: Linköping University
     year: 2017
   - course:  Engineer degree in Computer Science
-    institution: University of Technology of Compiègne
+    institution: Université de Technologie de Compiègne
     year: 2017
 
 # Social/Academic Networking
@@ -36,18 +39,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  icon_pack: "ai"
+  link: https://scholar.google.co.uk/citations?user=4pPaivMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/zinsmatt
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zinsmatt/?locale=en_US
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
