@@ -45,7 +45,7 @@ links:
 #url_project: 'https://blog.kitware.com/3d-reconstruction-from-satellite-images/'
 #url_slides: ''
 #url_source: '#'
-#url_video: 'https://player.vimeo.com/video/321528248'
+url_video: 'https://youtu.be/PhE4LzsqjAE'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
