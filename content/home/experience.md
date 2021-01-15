@@ -39,10 +39,10 @@ date_format = "Jan 2006"
   date_start = "2017-10-16"
   date_end = "2019-09-29"
   description = """
-  As part of the Computer Vision team, I have worked on different projects about 3D<code>&nbsp;</code>reconstruction, SLAM, calibration, point cloud processing, texture mapping and satellite imagery. This includes:
-  * Algorithms development for different sensors such as: Kinect Azure, RealSense Depth and Tracking cameras (D415, D435, T265) and Pico Flexx.
-  * Contributions to [KWIVER](https://github.com/Kitware/kwiver), an open-source toolkit of algorithms for Computer Vision.
-  * Participation to a large research project on urban semantic 3D reconstruction from multi-view satellite imagery. This work received the Best Paper Award at CVPR EarthVision workshop 2019.
+  I have worked on different projects involving 3D Reconstruction, SLAM, Sensor Calibration, Point Cloud Analysis, Texture Mapping and Satellite Imagery.
+  * Algorithms development for different sensors: Kinect Azure or RealSense.
+  * Contributions to [KWIVER](https://github.com/Kitware/kwiver), an open-source toolkit for Computer Vision.
+  * Development of the texture mapping part for a large research project about urban semantic 3D reconstruction from multi-view satellite imagery. This work received the Best Paper Award at CVPR Workshop 2019.
   """
 
 
@@ -57,8 +57,8 @@ date_format = "Jan 2006"
   description = """
   I wrote my Master thesis at SICK IVP, in collaboration with the Computer Vision Laboratory (CVL) at Linköping University. 
   My work included:
-  * sensor fusion between a time-of-flight camera and a color camera
-  * super-resolution techniques applied on a time-of-flight camera
+  * sensor fusion between a time-of-flight camera and a color camera.
+  * super-resolution techniques for depth cameras.
   """
 
 [[experience]]
@@ -69,12 +69,11 @@ date_format = "Jan 2006"
   date_start = "2015-08-17"
   date_end = "2016-02-03"
   description = """
-  Responsibilities include:
-
-  * Parallelization of geometric processings with multithreading
-  * Recognition of 3D annotations
-  * Optimization of the 3D viewer
-  * Automatic deployment in a VR environment
+  Algorithmic Processing for Virtual Reality Application.
+  * Parallelization of geometric the processings with multithreading.
+  * Recognition of 3D annotations.
+  * Optimization of the 3D viewer.
+  * Automatic deployment in a VR environment.
 
   """
 

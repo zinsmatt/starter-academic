@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Vision
-    institution: Inria / Université de Lorraine
+    institution: Inria #/ Université de Lorraine
     year: (in progress)
   - course: MSc in Computer Science
     institution: Linköping University
