@@ -5,4 +5,4 @@ Build website (the result is in the 'public' folder):
     hugo -D
 
 Copy the content of 'public' inside the zinsmatt.github.io repository:
-    cp -r public/* ../../zinsmatt.github.io/
+    cp -r public/* ../zinsmatt.github.io/

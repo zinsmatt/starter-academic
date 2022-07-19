@@ -24,12 +24,12 @@ publication_types: ["1"]
 publication: In *International Conference on Intelligent Robots and Systems (IROS 2022)*
 publication_short: In *IROS*
 
-abstract: (Link to code and paper coming soon) In this paper, we propose an object-based camera pose estimation from a single RGB image and a pre-built map of objects, represented with ellipsoidal models. We show that contrary to point correspondences, the definition of a cost function characterizing the projection of a 3D object onto a 2D object detection is not straightforward. We develop an ellipse-ellipse cost based on level sets sampling, demonstrate its nice properties for handling partially visible objects and compare its performance with other common metrics, such as Intersection-over-Union, bounding box corners or Wasserstein distance. Finally, we show that the use of a predictive uncertainty on the detected ellipses allows a fair weighting of the contribution of the correspondences which improves the computed pose.
+abstract: In this paper, we propose an object-based camera pose estimation from a single RGB image and a pre-built map of objects, represented with ellipsoidal models. We show that contrary to point correspondences, the definition of a cost function characterizing the projection of a 3D object onto a 2D object detection is not straightforward. We develop an ellipse-ellipse cost based on level sets sampling, demonstrate its nice properties for handling partially visible objects and compare its performance with other common metrics, such as Intersection-over-Union, bounding box corners or Wasserstein distance. Finally, we show that the use of a predictive uncertainty on the detected ellipses allows a fair weighting of the contribution of the correspondences which improves the computed pose.
 
 
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#008080">International Conference on Intelligent Robots and Systems (IROS 2022)</b><br> Camera pose refinement from objects by minimizing an ellipse-ellipse cost. (link to code and paper coming soon)
+summary: <b style="font-size:120%;color:#008080">International Conference on Intelligent Robots and Systems (IROS 2022)</b><br> Camera pose refinement from objects by minimizing an ellipse-ellipse cost.
 tags:
 - Pose Estimation
 - Nonlinear optimization
@@ -42,8 +42,8 @@ links:
 # - name: Open Access CVF
 #   url: https://hal.inria.fr/hal-03602394
 #   url_pdf: https://hal.inria.fr/hal-03602394/document
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-#url_code: 'https://github.com/Kitware/Danesfield'
+url_pdf: http://arxiv.org/abs/2207.07953
+url_code: https://gitlab.inria.fr/tangram/level-set-based-camera-pose-estimation
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: 'https://blog.kitware.com/3d-reconstruction-from-satellite-images/'
