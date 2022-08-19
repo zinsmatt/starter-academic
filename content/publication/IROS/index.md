@@ -31,7 +31,7 @@ abstract: In this paper, we propose an object-based camera pose estimation from 
 # Summary. An optional shortened abstract.
 summary: <b style="font-size:120%;color:#008080">International Conference on Intelligent Robots and Systems (IROS 2022)</b><br> Camera pose refinement from objects by minimizing an ellipse-ellipse cost.
 tags:
-- Pose Estimation
+- Pose estimation
 - Nonlinear optimization
 - Ellipse-ellipse cost
 - Uncertainty prediction

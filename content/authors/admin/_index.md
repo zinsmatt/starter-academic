@@ -83,6 +83,7 @@ Time-of-flight Cameras. I received a French Engineering degree from the [UTC](ht
 
 
 ### News
-- <b>[Jun 30, 2022]</b> <b>Accepted paper:</b> [Level Set-Based Camera Pose Estimation From Multiple 2D/3D Ellipse-Ellipsoid Correspondences](../publication/iros/) has been accepted to [IROS](https://iros2022.org/).
+- <b>[Aug 16, 2022]</b> <b>Accepted paper:</b> [OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM](../publication/ismar/) has been accepted to [ISMAR 2022](https://ismar2022.org/).
+- <b>[Jun 30, 2022]</b> <b>Accepted paper:</b> [Level Set-Based Camera Pose Estimation From Multiple 2D/3D Ellipse-Ellipsoid Correspondences](../publication/iros/) has been accepted to [IROS 2022](https://iros2022.org/).
 - <b>[Feb 1, 2022]</b> <b>Accepted paper:</b> [Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction](../publication/ijcv/) has been accepted to [IJCV](https://www.springer.com/journal/11263).
 - <b>[Oct 2, 2020]</b> <b>Accepted paper:</b> [3D-Aware Ellipse Prediction for Object-Based Camera Pose Estimation](../publication/3dv/) has been accepted to [3DV 2020](http://3dv2020.dgcv.nii.ac.jp/).
