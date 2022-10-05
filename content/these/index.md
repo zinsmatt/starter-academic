@@ -12,18 +12,18 @@ header:
   caption: ""
   image: ""
 ---
-## Chapitre 2: Prédiction d'ellipse guidée par la 3D pour améliorer le calcul de pose
+## Chapitre 2: Prédiction d'ellipse guidée par la 3D pour améliorer le calcul de pose {#3DV_IJCV}
 
 {{< youtube iB5Rj-F0sMI >}}
 
 
 
-## Chapitre 3: Raffinement de la pose de la caméra
+## Chapitre 3: Raffinement de la pose de la caméra {#IROS}
 
 {{< youtube TxtsvlMDxbM >}}
 
 
 
-## Chapitre 4: OA-SLAM
+## Chapitre 4: OA-SLAM  {#ISMAR}
 
-{{< youtube BmozzAEQDxs >}}
+{{< youtube 4Q2c0BMfEU0 >}}
