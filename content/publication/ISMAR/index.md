@@ -73,4 +73,4 @@ projects: []
 slides: example
 ---
 
-{{< youtube 50zXF7Z7FLo >}}
+{{< youtube L1HEL4kLJ3g >}}

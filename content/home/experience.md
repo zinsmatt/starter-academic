@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   I have worked on different projects involving 3D Reconstruction, SLAM, Sensor Calibration, Point Cloud Analysis, Texture Mapping and Satellite Imagery.
   * Algorithms development for different sensors: Kinect Azure or RealSense.
   * Contributions to [KWIVER](https://github.com/Kitware/kwiver), an open-source toolkit for Computer Vision.
-  * Development of texture mapping algorithms for a large research project about urban semantic 3D reconstruction from multi-view satellite imagery. This work received the Best Paper Award at CVPR Workshop 2019.
+  * Development of [texture mapping algorithms](https://github.com/Kitware/Danesfield) for a large research project about urban semantic 3D reconstruction from multi-view satellite imagery. This work received the Best Paper Award at CVPR Workshop 2019.
   """
 
 
