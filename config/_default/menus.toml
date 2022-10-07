@@ -34,6 +34,13 @@
   url = "#talks"
   weight = 40
 
+
+[[main]]
+  name = "Thesis Results"  # A link title for your page.
+  url = "these/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
+
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
