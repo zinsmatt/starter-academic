@@ -49,7 +49,7 @@ url_code: https://gitlab.inria.fr/tangram/level-set-based-camera-pose-estimation
 #url_project: 'https://blog.kitware.com/3d-reconstruction-from-satellite-images/'
 #url_slides: ''
 #url_source: '#'
-url_video: 'https://youtu.be/TxtsvlMDxbM'
+url_video: 'https://youtu.be/p4aCW_Ox3Sg'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

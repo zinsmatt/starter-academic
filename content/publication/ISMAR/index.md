@@ -41,14 +41,14 @@ links:
 # - name: Open Access CVF
 #   url: https://hal.inria.fr/hal-03602394
 #   url_pdf: https://hal.inria.fr/hal-03602394/document
-# url_pdf: http://arxiv.org/abs/2207.07953
+url_pdf: https://arxiv.org/abs/2209.08338
 url_code: https://gitlab.inria.fr/tangram/oa-slam
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: 'https://blog.kitware.com/3d-reconstruction-from-satellite-images/'
 #url_slides: ''
 #url_source: '#'
-url_video: 'https://youtu.be/50zXF7Z7FLo'
+url_video: 'https://youtu.be/L1HEL4kLJ3g'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

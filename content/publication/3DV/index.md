@@ -35,9 +35,9 @@ tags:
 featured: true
 
 links:
-- name: Open Access CVF
-  url: https://hal.inria.fr/hal-02975379
-  url_pdf: https://hal.inria.fr/hal-02975379/document
+# - name: Open Access CVF
+#   url: https://hal.inria.fr/hal-02975379
+url_pdf: https://hal.inria.fr/hal-02975379
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/zinsmatt/3D-Aware-Ellipses-for-Visual-Localization'
 #url_dataset: '#'
