@@ -28,6 +28,9 @@ date_format = "Jan 2006"
   date_end = "2022-09-30"
   description = """
   The goal of my thesis is to improve Visual Localization accuracy and robustness in complex environments using high-level object landmarks. In practice, we combine geometrical reasoning with recent Deep Learning approaches for object detection and pose estimation.
+  * Development of an object-based visual SLAM system offering automatic object mapping and robust relocalization.
+  * Publications in international journal and conferences: IJCV, 3DV, IROS, ISMAR.
+  * Codes (Python and C++) released at [gitlab.inria.fr/tangram](https://gitlab.inria.fr/tangram).
   """
 
 
@@ -40,9 +43,10 @@ date_format = "Jan 2006"
   date_end = "2019-09-29"
   description = """
   I have worked on different projects involving 3D Reconstruction, SLAM, Sensor Calibration, Point Cloud Analysis, Texture Mapping and Satellite Imagery.
-  * Algorithms development for different sensors: Kinect Azure or RealSense.
-  * Contributions to [KWIVER](https://github.com/Kitware/kwiver), an open-source toolkit for Computer Vision.
+  * Algorithms development for different sensors: Kinect Azure, Pico Flexx, Intel RealSense depth and tracking cameras.
+  * Contributions to [KWIVER](https://github.com/Kitware/kwiver), an open-source toolkit for Computer Vision (C++).
   * Development of [texture mapping algorithms](https://github.com/Kitware/Danesfield) for a large research project about urban semantic 3D reconstruction from multi-view satellite imagery. This work received the Best Paper Award at CVPR Workshop 2019.
+  * Scientific papers review and presentation to the team.
   """
 
 
@@ -57,8 +61,8 @@ date_format = "Jan 2006"
   description = """
   I wrote my Master thesis at SICK IVP, in collaboration with the Computer Vision Laboratory (CVL) at Linköping University. 
   I have worked on:
-  * sensor fusion between a time-of-flight camera and a color camera.
-  * super-resolution techniques for depth cameras.
+  * Sensor fusion between a time-of-flight camera and a color camera.
+  * Super-resolution techniques for depth cameras.
   """
 
 [[experience]]
@@ -69,9 +73,10 @@ date_format = "Jan 2006"
   date_start = "2015-08-17"
   date_end = "2016-02-03"
   description = """
-  Algorithmic Processing for Virtual Reality Application.
+  Algorithmic processing for a Virtual Reality application (C++):
   * Parallelization of geometric the processings with multithreading.
   * Recognition of 3D annotations.
+  * Optimization of the import of 3D models: obj, 3dxml, collada, vrml, stl.
   * Optimization of the 3D viewer.
   * Automatic deployment in a VR environment.
 

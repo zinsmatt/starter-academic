@@ -41,6 +41,13 @@
   weight = 50  # The position of your page in the menu.
 
 
+[[main]]
+  name = "Resume"  # A link title for your page.
+  url = "files/resume_Matthieu_Zins.pdf"  # The URL of your page.
+  weight = 60  # The position of your page in the menu.
+
+
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"

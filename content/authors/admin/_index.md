@@ -6,7 +6,7 @@ title: Matthieu Zins
 superuser: true
 
 # Role/position
-role: PhD Student in Computer Vision
+role: Computer Vision engineer (PhD)
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in Computer Vision
     institution: Inria #/ Université de Lorraine
-    year: (in progress)
+    year: 2022
   - course: MSc in Computer Science
     institution: Linköping University
     year: 2017
@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/resume_Matthieu_Zins.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -83,6 +83,7 @@ Time-of-flight Cameras. I received a French Engineering degree from the [UTC](ht
 
 
 ### News
+- <b>[Dec 9, 2022]</b> <b>I successfully defended my thesis: </b>[Contributions to the accuracy and robustness of visual localization in a world of objects](https://hal.archives-ouvertes.fr/tel-03922962/document).
 - <b>[Aug 16, 2022]</b> <b>Accepted paper:</b> [OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM](../publication/ismar/) has been accepted to [ISMAR 2022](https://ismar2022.org/).
 - <b>[Jun 30, 2022]</b> <b>Accepted paper:</b> [Level Set-Based Camera Pose Estimation From Multiple 2D/3D Ellipse-Ellipsoid Correspondences](../publication/iros/) has been accepted to [IROS 2022](https://iros2022.org/).
 - <b>[Feb 1, 2022]</b> <b>Accepted paper:</b> [Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction](../publication/ijcv/) has been accepted to [IJCV](https://www.springer.com/journal/11263).
