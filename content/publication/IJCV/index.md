@@ -38,10 +38,10 @@ featured: true
 links:
 # - name: Open Access CVF
   # url: https://hal.inria.fr/hal-03602394
-url_pdf: https://hal.inria.fr/hal-03602394
+url_pdf: https://arxiv.org/abs/2203.04613
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: 'https://github.com/zinsmatt/3D-Aware-Ellipses-for-Visual-Localization'
-url_video: 'https://youtu.be/mGQ1tRELtlA'
+url_code: https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization
+url_video: https://youtu.be/mGQ1tRELtlA
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: 'https://blog.kitware.com/3d-reconstruction-from-satellite-images/'

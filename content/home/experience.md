@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Development of an object-based visual SLAM system offering automatic object mapping and robust relocalization.
   * Publications in international journal and conferences: IJCV, 3DV, IROS, ISMAR.
   * Codes (Python and C++) released at [gitlab.inria.fr/tangram](https://gitlab.inria.fr/tangram).
+  * [Manuscript](https://hal.archives-ouvertes.fr/tel-03922962/document) | [Examinators report](/files/Thesis_reports_examinators.pdf)
   """
 
 
@@ -66,7 +67,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Intern"
+  title = "Software Engineer Intern"
   company = "DeltaCAD"
   company_url = ""
   location = "La Croix-Saint-Ouen, France"

@@ -7,7 +7,7 @@ weight = 50  # Order that this section will appear.
 
 # title = "Accomplish&shy;ments"
 title = "Competitions"
-subtitle = "Data Science & Development competitions"
+subtitle = "Data Science & Programming competitions"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

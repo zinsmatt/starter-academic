@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Competitions"
-subtitle = "Data Science & Development competitions"
+subtitle = "Data Science & Programming competitions"
 
 
 [content]
