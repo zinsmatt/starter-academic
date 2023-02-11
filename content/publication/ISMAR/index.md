@@ -29,7 +29,7 @@ abstract: \[AR Demo https://youtu.be/PXG_6LkbtgY\] In this work, we explore the 
 
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#008080">International Symposium on Mixed and Augmented Reality (ISMAR 2022)</b><br> \[AR Demo https://youtu.be/PXG_6LkbtgY\] Object-based SLAM with on-the-fly object mapping and improved camera relocalization.
+summary: <b style="font-size:120%;color:#008080">International Symposium on Mixed and Augmented Reality (ISMAR 2022)</b><br> \[AR Demo https://youtu.be/PXG_6LkbtgY\] Object-based visual SLAM for semantic mapping and improved camera relocalization.
 tags:
 - Visual SLAM
 - Object mapping
