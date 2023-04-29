@@ -13,6 +13,9 @@ header:
   image: ""
 ---
 
+* [Manuscript](https://hal.archives-ouvertes.fr/tel-03922962/document) | [Examinators report](/files/Thesis_reports_examinators.pdf)
+* Codes (Python and C++) released at [gitlab.inria.fr/tangram](https://gitlab.inria.fr/tangram).
+
 ### Chapitre 2 : Prédiction d'ellipse guidée par la 3D pour améliorer le calcul de pose {#3DV_IJCV}
 
 {{< youtube mGQ1tRELtlA >}}
