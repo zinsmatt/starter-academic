@@ -83,7 +83,7 @@ Time-of-flight Cameras. I received a French Engineering degree from the [UTC](ht
 
 
 ### News
-- <b>[Apr 9, 2023]</b> <b>[OA-SLAM](../publication/ismar/) has been accepted as demo at [CVPR 2023](https://cvpr2023.thecvf.com/).
+- <b>[Apr 9, 2023]</b> <b>[OA-SLAM](../publication/ismar/)</b> has been accepted as demo at [CVPR 2023](https://cvpr2023.thecvf.com/).
 - <b>[Dec 9, 2022]</b> <b>I successfully defended my thesis: </b>[Contributions to the accuracy and robustness of visual localization in a world of objects](https://hal.archives-ouvertes.fr/tel-03922962/document).
 - <b>[Aug 16, 2022]</b> <b>Accepted paper:</b> [OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM](../publication/ismar/) has been accepted to [ISMAR 2022](https://ismar2022.org/).
 - <b>[Jun 30, 2022]</b> <b>Accepted paper:</b> [Level Set-Based Camera Pose Estimation From Multiple 2D/3D Ellipse-Ellipsoid Correspondences](../publication/iros/) has been accepted to [IROS 2022](https://iros2022.org/).
